@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Computer Engineering at [the Edward S. Rogers Sr. Department of Electrical & Computer Engineering (ECE)](https://www.ece.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/), supervised by [Prof. Hans-Arno Jacobsen](https://www.ece.utoronto.ca/people/jacobsen-h-a/). I am a member of the [Middleware Systems Research Group (MSRG)](https://www.msrg.org/). I previously obtained my MASc degree in Computer Engineering and my HBSc degree in Computer Science from the University of Toronto. You can find my CV [here](./assets/docs/Yunhao_Mao_CV.pdf).
+I am a Ph.D. student in Computer Engineering at [the Edward S. Rogers Sr. Department of Electrical & Computer Engineering (ECE)](https://www.ece.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/), supervised by [Prof. Hans-Arno Jacobsen](https://www.ece.utoronto.ca/people/jacobsen-h-a/). I am a member of the [Middleware Systems Research Group (MSRG)](https://www.msrg.org/). I previously obtained my MASc degree in Computer Engineering and my HBSc degree in Computer Science from the University of Toronto. You can find my CV [here](./assets/files/Yunhao_Mao_CV.pdf).
 
 My research focuses on distributed databases, data replication, and consistency. I have worked on data replication protocols such as Conflict-free Replicated Data Types (CRDTs) and consensus protocols to improve the performance and availability of distributed databases. I have also contributed to research on BFT consensus protocols and their applications in blockchain systems. My other research interests include cloud-native databases and multi-cloud data management.
 
