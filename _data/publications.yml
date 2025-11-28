@@ -51,8 +51,8 @@ main:
   - title: Optimized Storage for Seamless Multi-cloud Systems
     authors: <strong>Yunhao Mao</strong>, Yuqiu Zhang, Hans-Arno Jacobsen
     conference_short: SoCC
-    conference: ACM Symposium on Cloud Computing <strong>(SoCC)</strong>, 2023.
-    notes: Poster
+    conference: ACM Symposium on Cloud Computing <strong>(SoCC)</strong>, Poster, 2023.
+    # notes: Poster
     image: ./assets/img/socc23.png
 
   - title: Reversible Conflict-free Replicated Data Types
@@ -62,7 +62,8 @@ main:
     pdf: https://dl.acm.org/doi/pdf/10.1145/3528535.3565252 
     code: https://github.com/MSRG/rKVCRDT
     #notes: Doctoral Symposium
-    #image: ./assets/img/vldb25.png
+    image: ./assets/img/middleware22.png
+
 
   - title: "Skybridge: A Cross-cloud Storage System for Sky Computing"
     authors: <strong>Yunhao Mao</strong>
