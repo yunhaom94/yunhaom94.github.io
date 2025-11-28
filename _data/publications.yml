@@ -19,16 +19,15 @@ main:
     #notes: Oral Presentation
     image: ./assets/img/vldb25.png
 
-  - title: Epoch-based Optimistic Concurrency Control in Geo-replicated Databases
+  - title: Toward Intelligent, Sustainable, and Reliable Cloud Database Systems: A Unified Research Vision 
     authors: Michail Bachras, Michael Dang'Ana, <strong>Yunhao Mao</strong>, Shiquan Zhang, Yuqiu Zhang and Hans-Arno Jacobsen
     conference_short: CASON
-    conference: IEEE International Conference on Collaborative Advances in Software and COmputiNg <strong>(CASON)</strong>, 2025.
+    conference: IEEE International Conference on Collaborative Advances in Software and COmputiNg <strong>(CASON)</strong>, Workshop on Software Techniques for Cyber-Physical Systems <strong>(CyPress)</strong>, , 2025.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    notes: Workshop on Software Techniques for Cyber-Physical Systems
-
+    # notes: 
 
   - title: "Reaching Consensus in the Byzantine Empire: A Comprehensive Review of BFT Consensus Algorithms"
     authors: Gengrui Zhang, Fei Pan, <strong>Yunhao Mao</strong>, Sofia Tijanic, Michael Dang'Ana, Shashank Motepalli, Shiquan Zhang, Hans-Arno Jacobsen
@@ -36,9 +35,18 @@ main:
     conference: ACM Computing Surveys, 2024
     pdf: https://arxiv.org/pdf/2204.03181
     #code: https://github.com/MSRG/Janus-CRDT
-    notes: Journal
+    #notes: Journal
     #image: ./assets/img/vldb25.png
 
+  - title: "V-Guard: An Efficient Permissioned Blockchain for Achieving Consensus under Dynamic Memberships"
+    authors: Gengrui Zhang, Yunhao Mao, Shiquan Zhang, Shashank Motepalli, Fei Pan, Hans-Arno Jacobsen
+    # conference_short: MICCAI
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2301.06210
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    notes: Pre-print
 
   - title: Optimized Storage for Seamless Multi-cloud Systems
     authors: <strong>Yunhao Mao</strong>, Yuqiu Zhang, Hans-Arno Jacobsen
@@ -50,12 +58,11 @@ main:
   - title: Reversible Conflict-free Replicated Data Types
     authors: <strong>Yunhao Mao</strong>, Zongxin Liu, Hans-Arno Jacobsen
     conference_short: Middleware
-    conference: ACM/IFIP International Middleware Conference <strong>(Middleware)</strong>, 2022.
+    conference: ACM/IFIP International Middleware Conference <strong>(Middleware)</strong>, Doctoral Symposium, 2022.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3528535.3565252 
     code: https://github.com/MSRG/rKVCRDT
     #notes: Doctoral Symposium
     #image: ./assets/img/vldb25.png
-
 
   - title: "Skybridge: A Cross-cloud Storage System for Sky Computing"
     authors: <strong>Yunhao Mao</strong>
@@ -63,5 +70,5 @@ main:
     conference: ACM/IFIP International Middleware Conference <strong>(Middleware)</strong>, 2022.
     pdf: https://dl.acm.org/doi/abs/10.1145/3569950.3569965 
     #code: https://github.com/MSRG/Janus-CRDT
-    notes: Doctoral Symposium
+    # notes: Doctoral Symposium
     #image: ./assets/img/vldb25.png
