@@ -50,6 +50,7 @@ main:
     conference_short: SoCC
     conference: ACM Symposium on Cloud Computing <strong>(SoCC)</strong>, Poster, 2023.
     # notes: Poster
+    pdf: ./assets/files/socc23.pdf
     image: ./assets/img/socc23.png
 
   - title: Reversible Conflict-free Replicated Data Types
