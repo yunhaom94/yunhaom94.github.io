@@ -3,7 +3,7 @@ main:
   - title: Epoch-based Optimistic Concurrency Control in Geo-replicated Databases
     authors: <strong>Yunhao Mao</strong>, Harunari Takata, Michail Bachras, Yuqiu Zhang, Shiquan Zhang, Gengrui Zhang, Hans-Arno Jacobsen
     conference_short: arxiv
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: arxiv
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -38,7 +38,7 @@ main:
   - title: "V-Guard: An Efficient Permissioned Blockchain for Achieving Consensus under Dynamic Memberships"
     authors: Gengrui Zhang, <strong>Yunhao Mao</strong>, Shiquan Zhang, Shashank Motepalli, Fei Pan, Hans-Arno Jacobsen
     conference_short: arxiv
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: arxiv
     pdf: https://arxiv.org/pdf/2301.06210
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
