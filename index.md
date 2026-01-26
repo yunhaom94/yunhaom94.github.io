@@ -28,6 +28,8 @@ I am also a [flute](./assets/files/flute.mp3) player.
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/awards.md %}
+
 {% include_relative _includes/teaching.md %}
 
 {% include_relative _includes/services.md %}

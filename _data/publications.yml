@@ -23,7 +23,7 @@ main:
     authors: Michail Bachras, Michael Dang'Ana, <strong>Yunhao Mao</strong>, Shiquan Zhang, Yuqiu Zhang and Hans-Arno Jacobsen
     conference_short: CASON
     conference: IEEE International Conference on Collaborative Advances in Software and COmputiNg <strong>(CASON)</strong>, Workshop on Software Techniques for Cyber-Physical Systems <strong>(CyPress)</strong>, 2025.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://www.computer.org/csdl/proceedings-article/cascon/2025/994800a667/2dvKejZvuaA
     # notes: 
 
   - title: "Reaching Consensus in the Byzantine Empire: A Comprehensive Review of BFT Consensus Algorithms"
