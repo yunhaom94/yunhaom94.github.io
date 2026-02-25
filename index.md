@@ -10,8 +10,6 @@ My research focuses on distributed databases, data replication, and consistency.
 
 More recently, I have been exploring vector data management, including distributed vector databases and advanced vector similarity search algorithms. I am actively working on optimizing vector similarity search operations such as join and range search, and exploring GPU acceleration to enhance the performance of vector search tasks.
 
-I also play [flute](./assets/files/flute.mp3).
-
 
 ## Research Interests
 
