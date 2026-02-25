@@ -3,7 +3,7 @@ main:
   - title: Epoch-based Optimistic Concurrency Control in Geo-replicated Databases
     authors: <strong>Yunhao Mao</strong>, Harunari Takata, Michail Bachras, Yuqiu Zhang, Shiquan Zhang, Gengrui Zhang, Hans-Arno Jacobsen
     conference_short: SIGMOD
-    conference: ACM International Conference on Management of Data <strong>(SIGMOD)</strong>, 2024.
+    conference: ACM International Conference on Management of Data <strong>(SIGMOD)</strong>, 2026.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
