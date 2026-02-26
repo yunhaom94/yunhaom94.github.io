@@ -4,11 +4,11 @@ main:
     authors: <strong>Yunhao Mao</strong>, Harunari Takata, Michail Bachras, Yuqiu Zhang, Shiquan Zhang, Gengrui Zhang, Hans-Arno Jacobsen
     conference_short: SIGMOD
     conference: ACM International Conference on Management of Data <strong>(SIGMOD)</strong>, 2026.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://arxiv.org/pdf/2602.21566
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/sigmod26.png
-    #notes: Pre-print
+    notes: Accepted
 
   - title: Making CRDTs Not So Eventual
     authors: <strong>Yunhao Mao</strong>, Gengrui Zhang, Zongxin Liu, Pezhman Nasirifard, Sofia Tijanic, Hans-Arno Jacobsen
