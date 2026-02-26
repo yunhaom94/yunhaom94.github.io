@@ -8,7 +8,7 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/sigmod26.png
-    notes: Accepted
+    notes: Recently Accepted
 
   - title: Making CRDTs Not So Eventual
     authors: <strong>Yunhao Mao</strong>, Gengrui Zhang, Zongxin Liu, Pezhman Nasirifard, Sofia Tijanic, Hans-Arno Jacobsen
