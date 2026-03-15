@@ -26,11 +26,11 @@ main:
   #   pdf: https://www.computer.org/csdl/proceedings-article/cascon/2025/994800a667/2dvKejZvuaA
     # notes: 
 
-  - title: "Reaching Consensus in the Byzantine Empire: A Comprehensive Review of BFT Consensus Algorithms"
-    authors: Gengrui Zhang, Fei Pan, <strong>Yunhao Mao</strong>, Sofia Tijanic, Michael Dang'Ana, Shashank Motepalli, Shiquan Zhang, Hans-Arno Jacobsen
+  # - title: "Reaching Consensus in the Byzantine Empire: A Comprehensive Review of BFT Consensus Algorithms"
+  #   authors: Gengrui Zhang, Fei Pan, <strong>Yunhao Mao</strong>, Sofia Tijanic, Michael Dang'Ana, Shashank Motepalli, Shiquan Zhang, Hans-Arno Jacobsen
     #conference_short: VLDB
-    conference: ACM Computing Surveys, 2024
-    pdf: https://arxiv.org/pdf/2204.03181
+    # conference: ACM Computing Surveys, 2024
+    # pdf: https://arxiv.org/pdf/2204.03181
     #code: https://github.com/MSRG/Janus-CRDT
     #notes: Journal
     #image: ./assets/img/vldb25.png
