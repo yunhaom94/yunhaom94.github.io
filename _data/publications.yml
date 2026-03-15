@@ -19,11 +19,11 @@ main:
     #notes: Oral Presentation
     image: ./assets/img/vldb25.png
 
-  - title: "Toward Intelligent, Sustainable, and Reliable Cloud Database Systems: A Unified Research Vision"
-    authors: Michail Bachras, Michael Dang'Ana, <strong>Yunhao Mao</strong>, Shiquan Zhang, Yuqiu Zhang and Hans-Arno Jacobsen
-    conference_short: CASON
-    conference: IEEE International Conference on Collaborative Advances in Software and COmputiNg <strong>(CASON)</strong>, Workshop on Software Techniques for Cyber-Physical Systems <strong>(CyPress)</strong>, 2025.
-    pdf: https://www.computer.org/csdl/proceedings-article/cascon/2025/994800a667/2dvKejZvuaA
+  # - title: "Toward Intelligent, Sustainable, and Reliable Cloud Database Systems: A Unified Research Vision"
+  #   authors: Michail Bachras, Michael Dang'Ana, <strong>Yunhao Mao</strong>, Shiquan Zhang, Yuqiu Zhang and Hans-Arno Jacobsen
+  #   conference_short: CASON
+  #   conference: IEEE International Conference on Collaborative Advances in Software and COmputiNg <strong>(CASON)</strong>, Workshop on Software Techniques for Cyber-Physical Systems <strong>(CyPress)</strong>, 2025.
+  #   pdf: https://www.computer.org/csdl/proceedings-article/cascon/2025/994800a667/2dvKejZvuaA
     # notes: 
 
   - title: "Reaching Consensus in the Byzantine Empire: A Comprehensive Review of BFT Consensus Algorithms"
@@ -45,13 +45,13 @@ main:
     # image: ./assets/img/teaser_example_2.png
     # notes: Pre-print
 
-  - title: Optimized Storage for Seamless Multi-cloud Systems
-    authors: <strong>Yunhao Mao</strong>, Yuqiu Zhang, Hans-Arno Jacobsen
-    conference_short: SoCC
-    conference: ACM Symposium on Cloud Computing <strong>(SoCC)</strong>, Poster, 2023.
-    # notes: Poster
-    pdf: ./assets/files/socc23.pdf
-    image: ./assets/img/socc23.png
+  # - title: Optimized Storage for Seamless Multi-cloud Systems
+  #   authors: <strong>Yunhao Mao</strong>, Yuqiu Zhang, Hans-Arno Jacobsen
+  #   conference_short: SoCC
+  #   conference: ACM Symposium on Cloud Computing <strong>(SoCC)</strong>, Poster, 2023.
+  #   # notes: Poster
+  #   pdf: ./assets/files/socc23.pdf
+  #   image: ./assets/img/socc23.png
 
   - title: Reversible Conflict-free Replicated Data Types
     authors: <strong>Yunhao Mao</strong>, Zongxin Liu, Hans-Arno Jacobsen
