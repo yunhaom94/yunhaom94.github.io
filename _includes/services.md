@@ -9,5 +9,5 @@
 <h4 style="margin:0 10px 0;">Journal</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Journal Reviewer, <a href="https://www.computer.org/csdl/journal/tm">IEEE Transactions on Mobile Computing</a></autocolor></li>
+  <li><autocolor>Reviewer, <a href="https://www.computer.org/csdl/journal/tm">IEEE Transactions on Mobile Computing</a></autocolor></li>
 </ul>
