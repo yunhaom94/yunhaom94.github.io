@@ -3,6 +3,11 @@
 <h4 style="margin:0 10px 0;">Conference</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://www.wsdm-conference.org/2027/"><autocolor>The 20th ACM International Conference on Web Search and Data Mining (WSDM 2027) Program Committee Member</autocolor></a></li>
+</ul>
+
+
+<ul style="margin:0 0 5px;">
   <li><a href="https://ieee-icde.org/2025/"><autocolor>41st IEEE International Conference on Data Engineering (ICDE 2025) Volunteer Session Chair</autocolor></a></li>
 </ul>
 

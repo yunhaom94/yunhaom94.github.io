@@ -1,5 +1,11 @@
 main:
 
+  - title: "V-Optimizing Geo-replicated Deterministic Databases"
+    authors: <strong>Yunhao Mao</strong>, Shiquan Zhang, Gengrui Zhang, Hans-Arno Jacobsen
+    conference_short: arxiv
+    conference: arxiv
+    pdf: https://arxiv.org/abs/2611.05882
+
   - title: Epoch-based Optimistic Concurrency Control in Geo-replicated Databases
     authors: <strong>Yunhao Mao</strong>, Harunari Takata, Michail Bachras, Yuqiu Zhang, Shiquan Zhang, Gengrui Zhang, Hans-Arno Jacobsen
     conference_short: SIGMOD
